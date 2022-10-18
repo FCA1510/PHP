@@ -129,9 +129,6 @@ if(isset($_GET["pos"])) {
                                 </tr>
                             <?php } ?>
                         </tbody>
-
-
-
                     </table>
                 </div>
             </div>
