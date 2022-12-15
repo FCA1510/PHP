@@ -20,20 +20,20 @@ function promediar($aNotas)
 $aAlumnos = array();
 $aAlumnos[] = array(
     "alumno" => "Juan Perez",
-    "notas" => array(7, 8),
+    "notas" => array(9, 8),
 
 
 );
 
 $aAlumnos[] = array(
     "alumno" => "Ana Valle",
-    "notas" => array(5, 7),
+    "notas" => array(4, 9),
 
 );
 
 $aAlumnos[] = array(
     "alumno" => "Gonzalo Roldan",
-    "notas" => array(6, 9),
+    "notas" => array(7, 6),
 
 );
 
